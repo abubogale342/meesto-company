@@ -51,8 +51,10 @@ const Header = () => {
           <a href="#advantages">Advantages</a>
         </li>
 
-        <li className="inline pr-6 font-semibold text-xl text-sky-900">
-          <button>EN|CZ</button>
+        <li className="inline mr-6 font-semibold text-xl text-sky-900">
+          <button>
+            <span className="text-white bg-blue-500">EN</span>|<span>CZ</span>
+          </button>
         </li>
       </ul>
     </nav>
