@@ -5,7 +5,7 @@ const howitworks = () => (
   <div className="flex flex-col items-center pt-12 pb-12" id="howitworks">
     <h1 className="text-sky-900 text-3xl mb-4 font-semibold">How It Works</h1>
     <p className="text-sky-900 text-lg w-4/6 md:w-4/6 xl:w-5/12 text-center">
-      To land on your dream house, you don’t go through any process, We go
+      To land on your dream house, you don&apos;t go through any process, We go
       through all processes for you except you have to say a place, choose a
       place and live in a place
     </p>
@@ -63,7 +63,7 @@ const howitworks = () => (
           </h1>
           <p className="text-sky-900 mt-1 text-center">
             Here is your dream home with reasonable price and with all complete
-            equipment's and surrounded by the services you need.{" "}
+            equipment&apos;s and surrounded by the services you need.{" "}
           </p>
         </div>
       </div>
