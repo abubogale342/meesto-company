@@ -53,7 +53,7 @@ const Header = () => {
 
         <li className="inline mr-6 font-semibold text-xl text-sky-900">
           <button>
-            <span className="text-white bg-blue-500">EN</span>|<span>CZ</span>
+            <span>EN</span>|<span>CZ</span>
           </button>
         </li>
       </ul>
